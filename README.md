@@ -8,7 +8,7 @@ Ein Python-CLI-Tool das das aktuelle Wetter für eine beliebige Stadt abruft.
 - Aktuelles Wetter (Temperatur, Wind, Zustand)
 
 ## Technologien
-- Python 3
+- Python 
 - requests
 - Open-Meteo API (kostenlos, kein API-Key nötig)
 
