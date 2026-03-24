@@ -10,7 +10,7 @@ Ein Python-CLI-Tool das das aktuelle Wetter für eine beliebige Stadt abruft.
 ## Technologien
 - Python 
 - requests
-- Open-Meteo API (kostenlos, kein API-Key nötig)
+- Open-Meteo API 
 
 ## Nutzung
 ```bash
