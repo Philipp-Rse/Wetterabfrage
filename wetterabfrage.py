@@ -26,7 +26,7 @@ temperatur = aktuell["temperature"]
 windgeschwindigkeit = aktuell["windspeed"]
 weathercode = aktuell["weathercode"]
 
-#Wettercode in Tex umwandeln
+#Wettercode in Text umwandeln
 wettercodes = {
     0: "klar",
     1: "überwiegend klar",
